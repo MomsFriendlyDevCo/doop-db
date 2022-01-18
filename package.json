@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/MomsFriendlyDevCo/doop-service-db#readme",
   "dependencies": {
-    "@momsfriendlydevco/mongoosy": "^1.4.1"
+    "@momsfriendlydevco/mongoosy": "^1.4.1",
+    "lodash": "^4.17.21"
   }
 }
