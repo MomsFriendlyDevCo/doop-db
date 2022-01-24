@@ -1,4 +1,4 @@
-@doop/service-db
+@doop/db
 ==================
 
 A database service for the [Doop framework](https://github.com/MomsFriendlyDevCo/Doop).
