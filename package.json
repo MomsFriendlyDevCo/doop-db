@@ -19,5 +19,8 @@
   "dependencies": {
     "@momsfriendlydevco/mongoosy": "^1.4.1",
     "lodash": "^4.17.21"
-  }
+  },
+  "workspaces": [
+    "../*"
+  ]
 }
