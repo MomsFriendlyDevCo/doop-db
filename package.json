@@ -4,7 +4,7 @@
   "description": "A database service for the Doop framework",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MomsFriendlyDevCo/doop-service-db.git"
+    "url": "git+https://github.com/MomsFriendlyDevCo/doop-db.git"
   },
   "keywords": [
     "doop",
@@ -13,14 +13,11 @@
   "author": "Matt Carter <m@ttcarter.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/MomsFriendlyDevCo/doop-service-db/issues"
+    "url": "https://github.com/MomsFriendlyDevCo/doop-db/issues"
   },
-  "homepage": "https://github.com/MomsFriendlyDevCo/doop-service-db#readme",
+  "homepage": "https://github.com/MomsFriendlyDevCo/doop-db#readme",
   "dependencies": {
     "@momsfriendlydevco/mongoosy": "^1.4.1",
     "lodash": "^4.17.21"
-  },
-  "workspaces": [
-    "../*"
-  ]
+  }
 }
